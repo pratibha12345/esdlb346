@@ -1,2 +1,3 @@
-i am pratibha.
+
 esdl pratical
+TE comp B
